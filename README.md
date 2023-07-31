@@ -1,4 +1,4 @@
-# 2020B1531074.github.io
+
 [![MasterHead](https://tse1.mm.bing.net/th?id=OIP.sVEcs0ruEZwiDKCVFQwWZAHaEP&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm Arun Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
